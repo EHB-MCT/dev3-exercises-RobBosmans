@@ -1,12 +1,10 @@
-val array = arrayOf<String>("yassin", "amin", "Tuur", "Cosima")
-
 fun main(){
+    val array = arrayOf("yassin", "amin", "Tuur", "Cosima")
     println("hello world")
-    greeting()
-}
-
-fun greeting(){
-    for (element in array){
-        println("hello " + element)
+    for (friend in array){
+        greet(friend)
     }
+}
+fun greet(friend: String){
+    println("hello $friend")
 }
