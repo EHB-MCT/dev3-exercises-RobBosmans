@@ -1,74 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02d01e46-81d3-4a10-8888-4e16053a4bf1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/session2/minigame/src/main/kotlin/minigame.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/.idea/kotlinc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/hello-world.iml" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/hello-world.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/libs/annotations-13.0-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/libs/annotations-13.0-javadoc.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/libs/annotations-13.0-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/libs/annotations-13.0-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/libs/annotations-13.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/libs/annotations-13.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/libs/hamcrest-core-1.3-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/libs/hamcrest-core-1.3-javadoc.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/libs/hamcrest-core-1.3-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/libs/hamcrest-core-1.3-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/libs/hamcrest-core-1.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/libs/hamcrest-core-1.3.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/libs/junit-4.12-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/libs/junit-4.12-javadoc.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/libs/junit-4.12-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/libs/junit-4.12-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/libs/junit-4.12.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/libs/junit-4.12.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/libs/kotlin-stdlib-1.5.10-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/libs/kotlin-stdlib-1.5.10-javadoc.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/libs/kotlin-stdlib-1.5.10-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/libs/kotlin-stdlib-1.5.10-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/libs/kotlin-stdlib-1.5.10.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/libs/kotlin-stdlib-1.5.10.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/libs/kotlin-stdlib-common-1.5.10-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/libs/kotlin-stdlib-common-1.5.10-javadoc.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/libs/kotlin-stdlib-common-1.5.10-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/libs/kotlin-stdlib-common-1.5.10-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/libs/kotlin-stdlib-common-1.5.10.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/libs/kotlin-stdlib-common-1.5.10.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/libs/kotlin-test-1.5.10-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/libs/kotlin-test-1.5.10-javadoc.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/libs/kotlin-test-1.5.10-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/libs/kotlin-test-1.5.10-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/libs/kotlin-test-1.5.10.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/libs/kotlin-test-1.5.10.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/libs/kotlin-test-junit-1.5.10-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/libs/kotlin-test-junit-1.5.10-javadoc.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/libs/kotlin-test-junit-1.5.10-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/libs/kotlin-test-junit-1.5.10-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/libs/kotlin-test-junit-1.5.10.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/libs/kotlin-test-junit-1.5.10.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/out/production/hello-world/META-INF/hello-world.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/out/production/hello-world/META-INF/hello-world.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/out/production/hello-world/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/out/production/hello-world/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/session1/hello-world/src/main/kotlin/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/.idea/kotlinc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/libs/annotations-13.0-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/libs/annotations-13.0-javadoc.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/libs/annotations-13.0-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/libs/annotations-13.0-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/libs/annotations-13.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/libs/annotations-13.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/libs/hamcrest-core-1.3-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/libs/hamcrest-core-1.3-javadoc.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/libs/hamcrest-core-1.3-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/libs/hamcrest-core-1.3-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/libs/hamcrest-core-1.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/libs/hamcrest-core-1.3.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/libs/junit-4.12-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/libs/junit-4.12-javadoc.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/libs/junit-4.12-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/libs/junit-4.12-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/libs/junit-4.12.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/libs/junit-4.12.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/libs/kotlin-stdlib-1.5.10-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/libs/kotlin-stdlib-1.5.10-javadoc.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/libs/kotlin-stdlib-1.5.10-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/libs/kotlin-stdlib-1.5.10-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/libs/kotlin-stdlib-1.5.10.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/libs/kotlin-stdlib-1.5.10.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/libs/kotlin-stdlib-common-1.5.10-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/libs/kotlin-stdlib-common-1.5.10-javadoc.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/libs/kotlin-stdlib-common-1.5.10-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/libs/kotlin-stdlib-common-1.5.10-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/libs/kotlin-stdlib-common-1.5.10.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/libs/kotlin-stdlib-common-1.5.10.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/libs/kotlin-test-1.5.10-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/libs/kotlin-test-1.5.10-javadoc.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/libs/kotlin-test-1.5.10-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/libs/kotlin-test-1.5.10-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/libs/kotlin-test-1.5.10.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/libs/kotlin-test-1.5.10.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/libs/kotlin-test-junit-1.5.10-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/libs/kotlin-test-junit-1.5.10-javadoc.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/libs/kotlin-test-junit-1.5.10-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/libs/kotlin-test-junit-1.5.10-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/libs/kotlin-test-junit-1.5.10.jar" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/libs/kotlin-test-junit-1.5.10.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/out/production/rock-paper-scissors/META-INF/rock-paper-scissors.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/out/production/rock-paper-scissors/META-INF/rock-paper-scissors.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/out/production/rock-paper-scissors/Rock_paper_scissorsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/out/production/rock-paper-scissors/Rock_paper_scissorsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/rock-paper-scissors.iml" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/rock-paper-scissors.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock-paper-scissors/src/main/kotlin/rock-paper-scissors.kt" beforeDir="false" afterPath="$PROJECT_DIR$/session1/rock-paper-scissors/src/main/kotlin/rock-paper-scissors.kt" afterDir="false" />
-    </list>
+    <list default="true" id="02d01e46-81d3-4a10-8888-4e16053a4bf1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
