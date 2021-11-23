@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="076300db-d7ae-403e-a71e-c9a4d6c8102b" name="Changes" comment="" />
+    <list default="true" id="076300db-d7ae-403e-a71e-c9a4d6c8102b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../trains/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trains/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trains/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trains/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trains/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trains/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trains/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trains/src/main/kotlin/Credentials.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trains/src/main/kotlin/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trains/trains.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
